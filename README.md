@@ -9,4 +9,4 @@ https://github.com/Shuhua-Group/Genetic-characteristics-of-the-Han100K-initiativ
 Genetic distances between populations were calculated using pairwise FST.
 
 ### Ancestry Components
-We used the ADMIXTURE (V1.3.0) program to estimate the ancestry components.
+Estimate the ancestry components using the ADMIXTURE (V1.3.0) program.
